@@ -27,6 +27,9 @@ export function Hero() {
             </div>
         </div>
       </div>
+      <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/146872740.js"></script>
+<!-- End of HubSpot Embed Code -->
     </section>
   );
 }
