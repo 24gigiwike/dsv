@@ -26,6 +26,12 @@ export default function RootLayout({
         {children}
           <Toaster />
         </AuthProvider>
+        <Script
+          type="text/javascript"
+          id="hs-script-loader"
+          src="//js-eu1.hs-scripts.com/146872740.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
